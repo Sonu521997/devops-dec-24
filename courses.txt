@@ -1,3 +1,4 @@
 Devops master course
 AWS Master course
 Git is used in every project
+Git is very good
